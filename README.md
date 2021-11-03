@@ -10,7 +10,9 @@
 - [ Portfolio ](#portfolio)
 
 # Description
+**MagicMirror²** is an open source modular smart mirror platform. With a growing list of installable modules, the **MagicMirror²** allows you to convert your hallway or bathroom mirror into your personal assistant. **MagicMirror²** is built by the creator of [the original MagicMirror](https://michaelteeuw.nl/tagged/magicmirror) with the incredible help of a [growing community of contributors](https://github.com/MichMich/MagicMirror/graphs/contributors).
 
+MagicMirror² focuses on a modular plugin system and uses [Electron](https://www.electronjs.org/) as an application wrapper. So no more web server or browser installs necessary!
 
 
 # Live
@@ -19,54 +21,36 @@ Visit a Live Running Example of the MagicMirror App [here](https: "Link to ").
 
 # Screenshoots
 
-<img src=''/>
+<img src='./Assets/Images/mirror.png'/>
 
 <br />
 
 # Installation
 
-In the project directory, you can run:
-
-### `npm install`
-
-All necesarry modules would be install
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+For the full documentation including **[installation instructions](https://docs.magicmirror.builders/getting-started/installation.html)**, please visit our dedicated documentation website: [https://docs.magicmirror.builders](https://docs.magicmirror.builders).
 
 
-### `npm run build`
+## Links
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-## Usage Instructions
-
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+- Website: [https://magicmirror.builders](https://magicmirror.builders)
+- Documentation: [https://docs.magicmirror.builders](https://docs.magicmirror.builders)
+- Forum: [https://forum.magicmirror.builders](https://forum.magicmirror.builders)
+- Discord: [https://discord.gg/J5BAtvx](https://discord.gg/J5BAtvx)
+- Blog: [https://michaelteeuw.nl/tagged/magicmirror](https://michaelteeuw.nl/tagged/magicmirror)
+- Donations: [https://magicmirror.builders/#donate](https://magicmirror.builders/#donate)
 <br>
 </br>
 
-# Technologies 
+# Technologies
 
 
 <!-- | Client side             |                   |                  |
 | -------------           | -------------     | --------------   |
-| axios                   | react             | bootstrap        | 
-| gh -pages               | react-bootstrap   | react-dom        | 
+| axios                   | react             | bootstrap        |
+| gh -pages               | react-bootstrap   | react-dom        |
 | styled-components       | testing-library   | RandomUser API   |
 | react-router-dom        | react-scripts     | web-vitals       |  -->
- 
+
 <br />
 
 # License
