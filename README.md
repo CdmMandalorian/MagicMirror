@@ -5,6 +5,7 @@
 - [ Live ](#live)
 - [ Screenshoots ](#screenshoots)
 - [ Installation ](#installation)
+- [ Links ](#links)
 - [ Technologies ](#technologies)
 - [ License ](#license)
 - [ Portfolio ](#portfolio)
@@ -13,6 +14,8 @@
 **MagicMirror²** is an open source modular smart mirror platform. With a growing list of installable modules, the **MagicMirror²** allows you to convert your hallway or bathroom mirror into your personal assistant. **MagicMirror²** is built by the creator of [the original MagicMirror](https://michaelteeuw.nl/tagged/magicmirror) with the incredible help of a [growing community of contributors](https://github.com/MichMich/MagicMirror/graphs/contributors).
 
 MagicMirror² focuses on a modular plugin system and uses [Electron](https://www.electronjs.org/) as an application wrapper. So no more web server or browser installs necessary!
+
+
 
 
 # Live
@@ -44,12 +47,21 @@ For the full documentation including **[installation instructions](https://docs.
 # Technologies
 
 
-<!-- | Client side             |                   |                  |
+| Client side             |                   |                  |
 | -------------           | -------------     | --------------   |
-| axios                   | react             | bootstrap        |
-| gh -pages               | react-bootstrap   | react-dom        |
+| colors                  | CSS               | JavaScript       |
+| Fonts                   | eslint            | prettier-quick   |
 | styled-components       | testing-library   | RandomUser API   |
-| react-router-dom        | react-scripts     | web-vitals       |  -->
+| stylelint               | stylelint-prettier| Test             |
+
+<br />
+
+| Server side             |                   |                  |
+| -------------           | -------------     | --------------   |
+| Express.js              | Express IP Filter | Moment.js        |
+| ical                    | node-ical         | Husky            |
+| Express-basic-auth      | Mocha             | NYTimes RSS API  |
+| router-dom              | Google Calendar   | RaspBerry Pi 3   |
 
 <br />
 
