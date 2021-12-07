@@ -12,20 +12,39 @@
 
 # Description
 
-The Magic Mirror project, is an application displayed into a Double-Sided Mirror reflecting an ongoing stream of Data via a Raspberry Pi 3. Personalized  with results for the Weather, Date, Time, headlining news, and Calendar/Scheduler updating continuously for the family to experience publicly.
+The Magic Mirror project, is an application displayed into a Double-Sided Mirror reflecting an ongoing stream of Data via a Raspberry Pi 3. Personalized  with results for the Weather, Date, Time, headlining news, and Calendar/Scheduler updating continuously for the family to experience publicly. Integrated with Google Calendar, and Samsung Calendar, to display full
+Calendar Scheduler for mobile devices.
+
+Calendar configured to display Football ⚽ Calendar of the Top 6 English Premier League Clubs
+
+| Arsenal, Chelsea, Liverpool, Manchester United, Manchester City, Tottenham |
+
+Calendar also Includes Calendars for:
+
+| Real Madrid, Barcelona, Bayern München, Borussia Dortmund, Juventus, Napoli, LAFC, Chivas, Chivas Femenil, USMNT, USWNT,FMF Mexico, FMF Mexico Femenil |
+
+Schedule includes League, Cup, Champions League | European Cups and International matches.
 
 **MagicMirror²** is an open source modular smart mirror platform. With a growing list of installable modules, the **MagicMirror²** allows you to convert your hallway or bathroom mirror into your personal assistant. **MagicMirror²** is built by the creator of [the original MagicMirror](https://michaelteeuw.nl/tagged/magicmirror) with the incredible help of a [growing community of contributors](https://github.com/MichMich/MagicMirror/graphs/contributors).
 
 MagicMirror² focuses on a modular plugin system and uses [Electron](https://www.electronjs.org/) as an application wrapper. So no more web server or browser installs necessary!
 
 
-# Live
-
-Visit a Live Running Example of the MagicMirror App [here](https: "Link to ").
-
-# Screenshoots
+# Screenshots
 
 <img src='./Assets/Images/mirror.png'/>
+
+<br />
+
+<img src='./Assets/Images/mirror2.0.png'/>
+
+<br />
+
+<img src='./Assets/Images/mobileCalendarMM.jpg'/>
+
+<br />
+
+<img src='./Assets/Images/mobileHomeScreenCalendar.jpg'/>
 
 <br />
 
