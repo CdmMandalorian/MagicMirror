@@ -12,7 +12,7 @@
 
 # Description
 
-The Magic Mirror project, is an application displayed into a Double-Sided Mirror reflecting an ongoing stream of Data via a Raspberry Pi 3. Personalized  with results for the Weather, Date, Time, headlining news, and Calendar/Scheduler updating continuously for the family to experience publicly. Integrated with Google Calendar, and Samsung Calendar, to display full
+The Magic Mirror project, is an application displayed into a Double-Sided Mirror reflecting an ongoing stream of Data via a Raspberry Pi 3. Personalized  with results for the Weather, Date, Time, Headlining News, Now Playing Spotify Display and Calendar/Scheduler updating continuously for the family to experience publicly. Integrated with Google Calendar, and Samsung Calendar, to display full
 Calendar Scheduler for mobile devices.
 
 Calendar configured to display Football ⚽ Calendar of the Top 6 English Premier League Clubs
@@ -21,7 +21,7 @@ Calendar configured to display Football ⚽ Calendar of the Top 6 English Premie
 
 Calendar also Includes Calendars for:
 
-| Real Madrid, Barcelona, Bayern München, Borussia Dortmund, Juventus, Napoli, LAFC, Chivas, Chivas Femenil, USMNT, USWNT,FMF Mexico, FMF Mexico Femenil |
+| Real Madrid, Barcelona, Bayern München, Borussia Dortmund, Juventus, Napoli, LAFC, Chivas, Chivas Femenil, USMNT, USWNT,FMF Mexico, FMF Mexico Femenil, Manchester United Femenil|
 
 Schedule includes League, Cup, Champions League | European Cups and International matches.
 
