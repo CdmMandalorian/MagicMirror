@@ -21,7 +21,7 @@ Calendar configured to display Football ⚽ Calendar of the Top 6 English Premie
 
 Calendar also Includes Calendars for:
 
-| Real Madrid, Barcelona, Bayern München, Borussia Dortmund, Juventus, Napoli, LAFC, Chivas, Chivas Femenil, USMNT, USWNT,FMF Mexico, FMF Mexico Femenil, Manchester United F |
+| Real Madrid, Barcelona, Bayern München, Borussia Dortmund, Juventus, Napoli, LAFC, LA GAlaxy, Chivas, Chivas Femenil, USMNT, USWNT,FMF Mexico, FMF Mexico Femenil, Manchester United F |
 
 Schedule includes League, Cup, Champions League | European Cups and International matches.
 
